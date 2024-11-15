@@ -1,4 +1,4 @@
-# Customer-Segmentation-for-Targeted-Marketing
+Customer Segmentation for Targeted Marketing
 
 Project Overview
 
